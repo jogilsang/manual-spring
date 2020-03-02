@@ -2,7 +2,11 @@
 for me
 
 ### 설치
+spring2 + intellij(coummunity)
 https://daddyprogrammer.org/post/19/spring-boot2-start-intellij/
+
+spring5 + intellij(coummunity)
+https://www.bsidesoft.com/?p=6926
 
 ### 설치요약
 1. intellij 커뮤니티 설치
