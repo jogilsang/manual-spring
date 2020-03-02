@@ -26,6 +26,14 @@ localhost:8080 접속
 https://shlee0882.tistory.com/249?category=809647
 ```
 
+### REST API test
+```
+postman
+
+Talend API Tester - Free Edition
+https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=ko
+```
+
 ### 설치요약
 1. intellij 커뮤니티 설치
 2. gradle 수정
