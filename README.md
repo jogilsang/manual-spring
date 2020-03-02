@@ -8,6 +8,19 @@ https://daddyprogrammer.org/post/19/spring-boot2-start-intellij/
 spring5 + intellij(coummunity)
 https://www.bsidesoft.com/?p=6926
 
+### spring5
+시작
+```
+cd test
+gradlew 유닉스용 실행 스크립트
+컴파일이나 빌드 호환성 문제를 gradlew를 통해 해결
+
+gradlew bootrun
+명령으로 실행
+
+localhost:8080 접속
+```
+
 ### 설치요약
 1. intellij 커뮤니티 설치
 2. gradle 수정
