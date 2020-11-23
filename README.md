@@ -1,6 +1,12 @@
 # manual-spring
 for me
 
+### maven
+```
+mvn package
+mvn spring-boot:run
+```
+
 ### 설치
 spring2 + intellij(coummunity)
 https://daddyprogrammer.org/post/19/spring-boot2-start-intellij/
