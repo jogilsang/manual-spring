@@ -1,6 +1,13 @@
 # manual-spring
 for me
 
+
+### 
+```
+cmd
+netstat ao | find "8080"
+```
+
 ### maven
 ```
 mvn package
